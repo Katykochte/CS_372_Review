@@ -7,14 +7,10 @@
    up and it will eventually say "web-1      | Server running on port 6543" on your terminal. That means it's good and working. Going to http://localhost:6543/ should now pull up
    the website and all it's functionalities.
 4) There are 4 admin accounts that come with:
-User: contente@movie.com 
-Password: CoEd123! 
-User: contente2@movie.com
-Password: CoEd234!
-User: marketman@movie.com
-Password: MaMa123!
-User: marketman2@movie.com
-Password: MaMa234! 
+   1) User: contente@movie.com Password: CoEd123! 
+   2) User: contente2@movie.com Password: CoEd234!
+   3) User: marketman@movie.com Password: MaMa123!
+   4) User: marketman2@movie.com Password: MaMa234! 
 #### Reminder: User accounts have to be added, and can be added from frontend. Movies will also need to be added and can be done through the content editor accounts. 
 
 
