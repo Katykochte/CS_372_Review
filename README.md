@@ -6,7 +6,7 @@
 3) Everything needed should be in the files, and once this is all on your local machine and given you have Docker the command "docker-compose up --build" should start everything
    up and it will eventually say "web-1      | Server running on port 6543" on your terminal. That means it's good and working. Going to http://localhost:6543/ should now pull up
    the website and all it's functionalities.
-#### Reminder: admin accounts have to be added, and the DB's initialize empty so no movies or users of any kind exist at the start. 
+#### Reminder: User accounts have to be added, and can be added from frontend.
 
 If for some horrible reason the above is not working, go back to the first repo, download all those files (they are slightly different than these one) and make the same needed 
 subdirectories "public/assets" and "public/uploads" create a MongoDB DB named "streamMovieDb" and create two collections in there called "streamMovieCollection" and 
