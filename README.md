@@ -1,4 +1,4 @@
-# NOTE ** Please raise issues in the other repo, NOT THIS ONE!!! Thank you!!! **
+# NOTE ** Please raise issues in the other repo, (https://github.com/Katykochte/CS_372_MovieProj2) NOT THIS ONE!!! Thank you!!! **
 
 # Instructions on how to use:
 1) First note there also needs to be an "uploads" folder inside the public folder but github doesn't let me upload an empty folder.
