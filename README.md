@@ -15,7 +15,7 @@
 ## Installation: 
 Clone the repository :
 `git clone https://github.com/Katykochte/CS_372_Review.git` <br>
-`cd CS_372_Review` 
+Then type `cd CS_372_Review` to navigate to the folder.
 ### Add directory : 
 There also needs to be an added "uploads" folder, this will need to be added manually
 as github does not do empty folder uploads. 
