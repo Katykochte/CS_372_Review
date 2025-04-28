@@ -37,7 +37,7 @@ Movies will need to be added and can be added through a content editor account.
 ### Open browser: 
 Open your choice of browser and go to http://localhost:6543
 
-## Usage
+## Usage:
 ### Viewers: 
 The page loads with an empty screen and the login tab in the top left corner. 
 Clicking on the login tab will allow you to log in or create a new account, or send a change password email. 
