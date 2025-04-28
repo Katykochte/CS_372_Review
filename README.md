@@ -32,8 +32,8 @@ Password: MaMa123! <br>
 User: marketman2@movie.com <br>
 Password: MaMa234! <br>
 <be>
-** User accounts will need to be added can be added through the frontend interface. ** <br>
-** Movies will need to be added and can be added through a content editor account. **
+**User accounts will need to be added can be added through the frontend interface.** <br>
+**Movies will need to be added and can be added through a content editor account.**
 
 ### Open browser: 
 Open your choice of browser and go to http://localhost:6543
