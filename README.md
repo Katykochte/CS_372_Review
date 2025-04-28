@@ -21,17 +21,17 @@ There also needs to be an added "uploads" folder, this will need to be added man
 as github does not do empty folder uploads. 
 
 ### Build and run using Docker :
-`docker-compose up --build`
-The website comes with admin accounts; the credentials are: 
-User: contente@movie.com 
-Password: CoEd123!
-User: contente2@movie.com
-Password: CoEd234!
-User: marketman@movie.com
-Password: MaMa123!
-User: marketman2@movie.com
-Password: MaMa234! 
-User accounts will need to be added can be added through the frontend interface. 
+Run `docker-compose up --build` to start the container. <br>
+The website comes with admin accounts; the credentials are: <br>
+User: contente@movie.com <br>
+Password: CoEd123! <br>
+User: contente2@movie.com <br>
+Password: CoEd234! <br>
+User: marketman@movie.com <br>
+Password: MaMa123! <br>
+User: marketman2@movie.com <br>
+Password: MaMa234! <br>
+User accounts will need to be added can be added through the frontend interface. <br>
 Movies will need to be added and can be added through a content editor account. 
 
 ### Open browser: 
